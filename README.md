@@ -1,4 +1,4 @@
-# Product-Selection
+# Seleção de Produtos
  Este é um projeto desenvolvido durante o módulo de React Hooks do curso Origamid. O objetivo inicial era criar uma interface com três botões para selecionar produtos, exibir os dados carregados e mostrar uma mensagem de "Carregando...". Porém, foram adicionadas funcionalidades extras para aprimorar o projeto.
 
 ## ⚡ Funcionalidades
@@ -17,7 +17,7 @@ Dados do produto (nome, preço, descrição e imagem) são carregados de uma API
 - Tratamento de Erros: <br>
 Implementação de captura de erros para garantir que falhas no fetch sejam tratadas de forma segura.
 
-🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 - React (com Hooks)
 - JavaScript (ES6+)
 - HTML5
@@ -25,3 +25,6 @@ Implementação de captura de erros para garantir que falhas no fetch sejam trat
 
 Nota: Os arquivos possuem extensão .jsx, que é usada para indicar a presença de JSX (JavaScript XML), uma sintaxe utilizada no React.
 
+## 🖼️ Demonstração
+
+https://github.com/user-attachments/assets/57bf9673-5cb1-4888-b0e8-058bb7f80041
